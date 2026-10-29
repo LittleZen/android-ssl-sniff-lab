@@ -727,3 +727,7 @@ echo [+] Proxy cleared.
 - **Alternatives to BS:** for ARM-faithful behaviour or hardened apps, a rooted
   physical device or Genymotion / Android-Studio AVD with Magisk + a cert module can be
   more reliable than BS' modified system image.
+
+## Disclaimer
+
+This repository is published for educational and security-research purposes only. It documents a personal, historical investigation into TLS interception techniques. The author does not condone, and is not responsible for, any unauthorized or illegal use of this material. Only test applications and systems you own or are explicitly authorized to test.
